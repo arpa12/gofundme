@@ -85,3 +85,36 @@ nav {
 .part_4 h5 {
     font-weight: bolder;
 }
+
+.part_5 {
+    margin-top: 20px;
+    padding-left: 200px;
+}
+
+.part_5 .card img {
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    margin-left: 80px;
+}
+
+.content {
+    max-width: 1170px;
+    background-color: rgb(68, 68, 68);
+    margin: auto;
+    color: white;
+    display: flex;
+}
+
+.footer_col ul li a {
+    list-style: none;
+}
+
+.footer {
+    background-color: rgb(39, 39, 39);
+}
+
+.footer_col {
+    width: 25%;
+    padding-bottom: 50px;
+}
