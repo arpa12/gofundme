@@ -104,10 +104,12 @@ nav {
     margin: auto;
     color: white;
     display: flex;
+    padding: 20px;
 }
 
 .footer_col ul li a {
-    list-style: none;
+    text-align: center;
+    margin-top: 20px;
 }
 
 .footer {
@@ -117,4 +119,8 @@ nav {
 .footer_col {
     width: 25%;
     padding-bottom: 50px;
+}
+
+.part-6 {
+    text-align: center;
 }
